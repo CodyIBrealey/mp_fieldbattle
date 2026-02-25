@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+    $basetexture world/grassCopy
+    $surfaceprop concrete
+    $selfillum 0
+}
