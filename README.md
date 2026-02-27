@@ -4,3 +4,5 @@ Required on both client and server side in order to work. Will crash unless impa
 
 To access the map, enter the private match menu and type this:
 map mp_fieldbattle
+
+github upload based on this template: https://github.com/GreenTF/NSModTemplate
