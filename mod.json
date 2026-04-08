@@ -6,7 +6,7 @@
 	"Scripts": [
 	    {
 	        "Path": "DisableImpactMarks.nut",
-	        "RunOn": "CLIENT && MAP_mp_structure",
+	        "RunOn": "CLIENT && MAP_mp_fieldbattle",
 		"ClientCallback": {
 			"After": "DisableImpactMarks"
          	}
