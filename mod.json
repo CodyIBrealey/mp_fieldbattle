@@ -1,8 +1,17 @@
 {
 	"Name": "skrubslayer.mp_fieldbattle",
 	"Description": "literally the fourth best titanfall map ever created",
-	"Version": "0.0.3",
-	"RequiredOnClient": true
+	"Version": "0.0.4",
+	"RequiredOnClient": true,
+	"Scripts": [
+	    {
+	        "Path": "DisableImpactMarks.nut",
+	        "RunOn": "CLIENT && MAP_mp_structure",
+		"ClientCallback": {
+			"After": "DisableImpactMarks"
+         	}
+	    }
+	],
 
 }
 
