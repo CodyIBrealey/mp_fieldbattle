@@ -3634,15 +3634,3 @@ brushDef
 "teamnum" "3"
 "targetname" "spawn_59"
 }
-// entity 116
-{
-"classname" "info_spawnpoint_flag"
-"origin" "-3448 -1944 648"
-"targetname" "flag_1"
-}
-// entity 117
-{
-"classname" "info_spawnpoint_flag"
-"origin" "2824 2104 664"
-"targetname" "flag_2"
-}
