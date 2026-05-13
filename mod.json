@@ -1,7 +1,7 @@
 {
 	"Name": "skrubslayer.mp_fieldbattle",
 	"Description": "literally the fourth best titanfall map ever created",
-	"Version": "0.0.7",
+	"Version": "0.0.8",
 	"RequiredOnClient": true,
 	"Scripts": [
 	    {
